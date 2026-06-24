@@ -1,2 +1,17 @@
 # UAS-Sistem-Informasi-Perpustakaan_Anggi-Julia-Puspitasari
-Sistem Informasi Perpustakaan— UAS Pemrograman Web [Anggi Julia Puspitasari/STMIK ELRAHMA YOGYAKARTA] 2025/2026
+
+| Keterangan | Isi |
+|---|---|
+| **Nama** | [Anggi Julia Puspitasari] |
+| **NIM** | [11240576] |
+| **Prodi** | [Sistem Informasi] |
+| **Mata Kuliah** | Pemrograman Web |
+| **Dosen Pengampu** | [Asih Winantu, S.Kom., M.Cs.] |
+| **Tahun Ajaran** | 2025/2026 |
+
+Cara menjalankan project:
+1. composer install
+2. copy .env.example menjadi .env
+3. php artisan key:generate
+4. php artisan migrate
+5. php artisan serve
